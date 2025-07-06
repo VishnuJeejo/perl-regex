@@ -1,6 +1,6 @@
 #regex to match absolete pattern at the start of the word
 # NOTE ! This feature is literally useless without the charecter class
-
+#
 $string = "this is a string to check basic pattern matching!";
 
 print("\n\n\tabsolute pattern match\n\n");
